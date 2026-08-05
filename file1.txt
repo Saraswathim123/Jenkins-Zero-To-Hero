@@ -1,1 +1,2 @@
 This is to check push command.
+This to check for push,fetch and merge
